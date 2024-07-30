@@ -1,0 +1,11 @@
+.ipynb_*
+.vscode
+env.db
+
+!/data/
+/data/*
+!/data/medical/
+/data/medical/*
+!/data/medical/sample.csv
+
+utils/__pycache__
